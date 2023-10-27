@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './12_高阶组件/App';
+import App from './16_React动画实现/SwitchTransition动画/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <App />
+    <App name="why"/>
 );
 
 // If you want to start measuring performance in your app, pass a function
